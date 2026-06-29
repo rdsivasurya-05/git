@@ -1,3 +1,5 @@
 Welcome to the git course
-sataged
-#This is from branch bug
+
+# This is from branch bug #
+
+# This is from branch new-bug #
